@@ -3,13 +3,11 @@
 This repository is created as part of my journey to learn Git. It will serve as a practice space for experimenting with Git commands, workflows, and features. Below are some key areas I will be focusing on.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Goals](#goals)
-- [Basic Git Workflow](#basic-git-workflow)
-- [Branching](#branching)
-- [Remote Repositories](#remote-repositories)
-- [Additional Git Commands](#additional-git-commands)
-- [Resources](#resources)
+- [Git Learning Repository](#git-learning-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Goals](#goals)
+  - [Basic Git Workflow](#basic-git-workflow)
 
 ## Introduction
 
@@ -35,4 +33,4 @@ Commit 1
 
 Commit 2
 
-Commit 3
+Commit 3 + Commit 3'
