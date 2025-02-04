@@ -32,3 +32,5 @@ Here’s a simple workflow I’m following to get comfortable with Git commands:
    https://github.com/mayankkorat/test2.git
 
 Commit 1
+
+Commit 2
