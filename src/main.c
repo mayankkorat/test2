@@ -12,10 +12,10 @@ int main()
     float quotient = divide(a, b);
 
     /* Comment added to conflict it */
-    printf("sum: %d\n", sum);
-    printf("difference: %d\n", diff);
-    printf("product: %d\n", prod);
-    printf("quotient: %.2f\n", quotient);
+    printf("Sum: %d\n", sum);
+    printf("Difference: %d\n", diff);
+    printf("Product: %d\n", prod);
+    printf("Quotient: %.2f\n", quotient);
 
     return 0;
 }
