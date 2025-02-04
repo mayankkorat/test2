@@ -6,7 +6,7 @@ int main()
     int a = 8, b = 4;
     int sum, diff, prod, quotient;
 
-    // Use functions from mathop.c
+    // Use functions from mathop
     sum = add(a, b);
     diff = subtract(a, b);
     prod = multiply(a, b);
