@@ -1,20 +1,21 @@
 #include <stdio.h>
-#include "math_operations.h"  // Include the header file for math functions
+#include "mathop"  // Include the header file for math functions
 
 int main()
 {
     int a = 5, b = 3;
 
-    // Use functions from math_operations.c
+    // Use functions from mathop.c
     int   sum = add(a, b);
     int   diff = subtract(a, b);
     int   prod = multiply(a, b);
     float quotient = divide(a, b);
 
+    /* It could create conflict */
     printf("Sum: %d\n", sum);
     printf("Difference: %d\n", diff);
     printf("Product: %d\n", prod);
-    printf("Quotient: %.2f\n", quotient);
+    printf("Division result: %.2f\n", quotient);
 
     return 0;
 }
