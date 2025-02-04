@@ -30,3 +30,5 @@ Here’s a simple workflow I’m following to get comfortable with Git commands:
 1. **Clone a repository**:
    ```bash
    https://github.com/mayankkorat/test2.git
+
+Commit 1
