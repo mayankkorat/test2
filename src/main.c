@@ -3,7 +3,7 @@
 
 int main()
 {
-    int a = 5, b = 3;
+    int a = 5, b = 4;
     int sum, diff, prod, quotient;
 
     // Use functions from mathop.c
