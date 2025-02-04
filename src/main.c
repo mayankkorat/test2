@@ -28,7 +28,7 @@ int main()
     printf("Sum: %d\n", sum);
     printf("Difference: %d\n", diff);
     printf("Product: %d\n", prod);
-    printf("Quotient Result: %.2f\n", quotient);
+    printf("Quotient: %.2f\n", quotient);
 
     /* Exit from the program */
     printf("Exit from main\n");
