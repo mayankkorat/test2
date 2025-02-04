@@ -34,3 +34,5 @@ Here’s a simple workflow I’m following to get comfortable with Git commands:
 Commit 1
 
 Commit 2
+
+Commit 3
