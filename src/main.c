@@ -17,5 +17,7 @@ int main()
     printf("Product: %d\n", prod);
     printf("Quotient: %.2f\n", quotient);
 
+    /* Exit from the program */
+    printf("Exit from main\n");
     return 0;
 }
