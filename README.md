@@ -29,7 +29,7 @@ Here’s a simple workflow I’m following to get comfortable with Git commands:
    ```bash
    https://github.com/mayankkorat/test2.git
 
-Commit 1
+Commit 11
 
 Commit 2
 
