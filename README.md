@@ -1,4 +1,4 @@
-# Git Learning Repository f2
+# Git Learning Repository
 
 This repository is created as part of my journey to learn Git. It will serve as a practice space for experimenting with Git commands, workflows, and features. Below are some key areas I will be focusing on.
 
